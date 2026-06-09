@@ -1,4 +1,5 @@
-## Hi there 👋
+## hey there 👋
+currently a computer science major studying hard
 
 <!--
 **heyyitsliv/heyyitsliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
